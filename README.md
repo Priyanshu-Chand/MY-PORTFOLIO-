@@ -6,8 +6,7 @@ PREVIEW-:
 https://priyanshu-chand.github.io/MY-PORTFOLIO-/
 
 ## 🔗 Live Site
+## 🔗 Live Site
 
-👉 [Click here to view my portfolio](https://priyanshu-chand.github.io/MyPortfolio/)
+👉 [Click to View Portfolio](https://priyanshu-chand.github.io/MY-PORTFOLIO-/)
 
-
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blueviolet?style=for-the-badge)](https://priyanshu-chand.github.io/MyPortfolio/)
